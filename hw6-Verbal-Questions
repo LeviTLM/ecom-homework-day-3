@@ -1,0 +1,5 @@
+Sort - לא מחזירה ערך חדש רק משנה את הרשימה הקיימת
+Sorted - מכינה רשימה חדשה ומחזירה רשימה חדשה עם האיברים ממוינים
+
+When should we define a _ memmory slot? why does it help read the code? -
+כדי לסמן שאין בו שימוש לאנשים שקוראים אחרי
