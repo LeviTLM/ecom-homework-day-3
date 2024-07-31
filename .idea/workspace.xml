@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30ffb070-ea8d-40e2-9423-a0697e3420a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw3-5.py" afterDir="false" />
+    <list default="true" id="30ffb070-ea8d-40e2-9423-a0697e3420a7" name="Changes" comment="homework day 6">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,30 +17,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeviTLM&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeviTLM/ecom-homework-day-3.git&quot;,
+    &quot;accountId&quot;: &quot;55bff22e-689a-49bc-afde-0b896ebe4ccc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2j5s5T0knSmCvFmCyNOem1zQwvy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.hw.executor": "Run",
-    "Python.hw3-2.executor": "Run",
-    "Python.hw3-5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.hw-6-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-6-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-6-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-firstsprint-ecom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-firstsprint-ecom2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-firstsprint-ecom3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw-firstsprint-ecom4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw3-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw3-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw3-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5-3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6-2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,16 +83,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720688089309</updated>
-      <workItem from="1720688091868" duration="2674000" />
+      <workItem from="1720688091868" duration="3328000" />
+      <workItem from="1721234894387" duration="254000" />
+      <workItem from="1721288196486" duration="1604000" />
+      <workItem from="1721292197331" duration="3377000" />
+      <workItem from="1721301430317" duration="2197000" />
+      <workItem from="1721651753931" duration="4380000" />
+      <workItem from="1722179863019" duration="263000" />
+      <workItem from="1722268786437" duration="780000" />
+      <workItem from="1722351302505" duration="138000" />
+      <workItem from="1722433529903" duration="436000" />
     </task>
+    <task id="LOCAL-00001" summary="homework day 5">
+      <option name="closed" value="true" />
+      <created>1721303614493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721303614493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework day 6">
+      <option name="closed" value="true" />
+      <created>1721655575828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721655575828</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework day 6">
+      <option name="closed" value="true" />
+      <created>1722433722098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722433722098</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework day 5" />
+    <MESSAGE value="homework day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework day 6" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$hw3_5.coverage" NAME="hw3-5 Coverage Results" MODIFIED="1720693141200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw5_2.coverage" NAME="hw5-2 Coverage Results" MODIFIED="1721295169631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_firstsprint_ecom3.coverage" NAME="hw-firstsprint-ecom3 Coverage Results" MODIFIED="1722351396485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw3_5.coverage" NAME="hw3-5 Coverage Results" MODIFIED="1721293654927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$hw.coverage" NAME="hw Coverage Results" MODIFIED="1720690873366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw5_3_2.coverage" NAME="hw5-3.2 Coverage Results" MODIFIED="1721301770089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$hw3_2.coverage" NAME="hw3-2 Coverage Results" MODIFIED="1720692361385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_6_3.coverage" NAME="hw-6-3 Coverage Results" MODIFIED="1721652786236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_firstsprint_ecom.coverage" NAME="hw-firstsprint-ecom Coverage Results" MODIFIED="1722268831448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_6_4.coverage" NAME="hw-6-4 Coverage Results" MODIFIED="1721654512289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw5_1.coverage" NAME="hw5-1 Coverage Results" MODIFIED="1721303440765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_firstsprint_ecom2.coverage" NAME="hw-firstsprint-ecom2 Coverage Results" MODIFIED="1722351334954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw5_3.coverage" NAME="hw5-3 Coverage Results" MODIFIED="1721302088692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_firstsprint_ecom4.coverage" NAME="hw-firstsprint-ecom4 Coverage Results" MODIFIED="1722269126039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw6_2.coverage" NAME="hw6-2 Coverage Results" MODIFIED="1721652618847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$hw_6_5.coverage" NAME="hw-6-5 Coverage Results" MODIFIED="1721654088351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
